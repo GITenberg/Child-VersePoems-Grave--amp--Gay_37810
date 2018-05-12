@@ -1,0 +1,31 @@
+_repo: Child-VersePoems-Grave--amp--Gay_37810
+_version: 0.1.0
+alternative_title: 'Child Verse: Poems Grave and Gay'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tabb, John B. (John Banister)
+    aliases:
+    - Tabb, John Banister
+    - Tabb, John Bannister
+    birthdate: 1845
+    deathdate: 1909
+    gutenberg_agent_id: '39074'
+    url: http://www.gutenberg.org/2009/agents/39074
+description: ''
+gutenberg_issued: '2011-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+title: 'Child Verse: Poems Grave & Gay'
+url: http://www.gutenberg.org/ebooks/37810
